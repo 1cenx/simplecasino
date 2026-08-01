@@ -1,2 +1,2 @@
-# simplecasino.stuff
+# simplecasino
 stuff for simplecasino
